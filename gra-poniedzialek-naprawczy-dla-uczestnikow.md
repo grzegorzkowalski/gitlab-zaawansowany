@@ -15,7 +15,7 @@ Każda podpowiedź ▸ kosztuje **5 pkt** — otwierajcie tylko w ostateczności
 Sklonujcie repozytorium (adres poda prowadzący):
 
 ```bash
-git https://github.com/grzegorzkowalski/poniedzialek-naprawczy.git
+git clone https://github.com/grzegorzkowalski/poniedzialek-naprawczy.git
 cd poniedzialek-naprawczy
 git fetch --all --tags
 ```
